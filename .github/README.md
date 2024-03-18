@@ -5,4 +5,4 @@
 Cross-package-manager automation script for Bash.
 
 ### to run
-1. `curl -sSL https://aut0-m8.github.io/bashset | bash`
+1. `curl https://aut0-m8.github.io/bashset | bash`
