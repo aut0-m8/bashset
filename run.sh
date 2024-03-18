@@ -11,4 +11,4 @@ else
   fi
 fi
 
-sudo curl -sSL -o -bashset.sh https://raw.githubusercontent.com/aut0-m8/bashset/main/bashset.sh && sudo chmod +x bashset.sh && ./bashset.sh; exit
+sudo curl -sSL -o -bashset.sh https://raw.githubusercontent.com/aut0-m8/bashset/main/bashset.sh && sudo chmod +x bashset.sh && ./bashset.sh
