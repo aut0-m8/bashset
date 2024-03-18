@@ -1,8 +1,8 @@
 clear
-if sudo "echo" true 2>/dev/null; then # if sudo is currently active
+if sudo "echo" 2>/dev/null; then # if sudo is currently active
   :
 else
-  if sudo -V true 2>/dev/null; then # if sudo exists
+  if sudo -V 2>/dev/null; then # if sudo exists
     echo "[-] root is required to install pkgs"
     sudo echo "[-] password ok"
   else
