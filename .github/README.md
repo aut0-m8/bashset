@@ -3,6 +3,7 @@
 # `bashset`
 
 Cross-package-manager automation script for Bash.
+Currently in **BETA**. Script will not do anything. This message will be removed once the project exits beta.
 
 ### to run
 1. `curl https://aut0-m8.github.io/bashset/run.sh | bash`
