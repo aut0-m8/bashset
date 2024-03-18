@@ -2,7 +2,7 @@ echo "[-] script is in beta, check back later. contribute by making a pull reque
 read -p "[y/N] " yn
 
 case $yn in
-  y ) xdg-open https://github.com/aut0-m8/bashset
+  y ) xdg-open https://github.com/aut0-m8/bashset;
   n ) exit 0;
   * ) exit 1;
 esac
