@@ -1,5 +1,5 @@
 clear
-if sudo "echo" 2>/dev/null; then # if sudo is currently active
+if sudo -n true 2>/dev/null; then # if sudo is currently active
   :
 else
   if sudo -V 2>/dev/null; then # if sudo exists
