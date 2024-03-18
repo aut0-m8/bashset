@@ -3,7 +3,7 @@ read -p "[y/N] " yn
 
 case $yn in
   y ) xdg-open https://github.com/aut0-m8/bashset;;
-  n ) exit 0;;
-  * ) exit 1;;
+  n ) exit 0;
+  * ) exit 1;
 esac
-exit 0;;
+exit 0
