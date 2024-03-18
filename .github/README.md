@@ -1,4 +1,4 @@
-<p><img src="https://raw.githubusercontent.com/aut0-m8/bashset/main/.github/bashset.png" alt="bashset logo" width="200"></p>
+<p><img src="https://github.com/aut0-m8/bashset/blob/main/.github/bashset.png?raw=true" alt="bashset logo" width="200"></p>
 
 # `bashset`
 
